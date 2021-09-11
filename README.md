@@ -5,7 +5,6 @@ only on your local machine. In this chapter we’ll style the project in a
 simple but professional manner and then deploy it to a live server so
 anyone in the world can make an account.
 
-
 <span id="page_466"></span>
 ## TRY IT YOURSELF Ⓐ
 
@@ -26,6 +25,8 @@ style the Blog project you created in [Chapter 19](../../../pcc_2e/tree/master/c
 you&rsquo;ve been working on to Heroku. Make sure you set `DEBUG` to `False`
 and change the `ALLOWED_HOSTS` setting, so your deployment is reasonably
 secure.
+
+![Internet Apple GIF By Alexandre Bobeda](https://i.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy-downsized.gif)
 
 <span id="ch20exe4"></span>**20-4. More 404s:** The
 `get_object_or_404()` function should also be used in the `new_entry()`
